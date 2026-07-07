@@ -93,7 +93,7 @@ export default function Contact() {
               </a>
 
               <a
-                href="/resume.pdf"
+                href="/ Varun Resume.pdf"
                 download
                 className="flex items-center gap-4 hover:text-cyan-400 transition"
               >
