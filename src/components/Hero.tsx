@@ -5,6 +5,8 @@ export default function Hero() {
     "AI/ML Engineer",
     "Python Developer",
     "LLM & RAG Systems Builder",
+    "Software Engineer",
+    "Data Analytics"
   ]);
 
   return (
@@ -43,7 +45,6 @@ export default function Hero() {
                   View Projects
                 </a>
               </button>
-
               <button className="border border-slate-700 px-6 py-3 rounded-xl">
                 <a href="/#contact" className="text-white font-semibold">
                   Contact Me
@@ -56,6 +57,7 @@ export default function Hero() {
               </button>
             </div>
           </div>
+         
 
           {/* Right */}
 
@@ -79,7 +81,7 @@ export default function Hero() {
               <p>
                 stack:
                 <span className="text-orange-400">
-                  {" "}Python + Flask + Django + Java + React + 
+                  {" "}Python + Flask + Django + Java + React +
                 </span>
               </p>
 
