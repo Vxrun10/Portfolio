@@ -84,7 +84,7 @@ export default function Contact() {
               </a>
 
               <a
-                href="https://linkedin.com/in/varunpanchal1008"
+                href="https://www.linkedin.com/in/varun-panchal-1008x/"
                 target="_blank"
                 className="flex items-center gap-4 hover:text-cyan-400 transition"
               >
